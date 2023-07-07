@@ -1,0 +1,10 @@
+[
+    { "id" : 0, "name" : "이현정", "interest" : "미술영재", "course" : "ph.D", "image" : "https://i.namu.wiki/i/9ZQ006q6J9MdhdjfM6DPpCbIsfaLezg5Fr9GyvtmRtEAItzwSV4DbpRlyG-ZMxgTVn4_5O-hg8DHpZSwYsRobA.webp"},  
+    { "id" : 1, "name" : "변경수", "interest" : "미술영재", "course" : "ph.D", "image" : "https://i.namu.wiki/i/9ZQ006q6J9MdhdjfM6DPpCbIsfaLezg5Fr9GyvtmRtEAItzwSV4DbpRlyG-ZMxgTVn4_5O-hg8DHpZSwYsRobA.webp"}, 
+    { "id" : 2, "name" : "윤은주", "interest" : "미술영재", "course" : "ph.D", "image" : "https://i.namu.wiki/i/9ZQ006q6J9MdhdjfM6DPpCbIsfaLezg5Fr9GyvtmRtEAItzwSV4DbpRlyG-ZMxgTVn4_5O-hg8DHpZSwYsRobA.webp"}, 
+    { "id" : 3, "name" : "유민희", "interest" : "미술영재", "course" : "ph.D", "image" : "https://i.namu.wiki/i/9ZQ006q6J9MdhdjfM6DPpCbIsfaLezg5Fr9GyvtmRtEAItzwSV4DbpRlyG-ZMxgTVn4_5O-hg8DHpZSwYsRobA.webp"}, 
+    { "id" : 4, "name" : "박진희", "interest" : "미술영재", "course" : "ph.D", "image" : "https://i.namu.wiki/i/9ZQ006q6J9MdhdjfM6DPpCbIsfaLezg5Fr9GyvtmRtEAItzwSV4DbpRlyG-ZMxgTVn4_5O-hg8DHpZSwYsRobA.webp"}, 
+    { "id" : 5, "name" : "류희선", "interest" : "미술영재", "course" : "ph.D", "image" : "https://i.namu.wiki/i/9ZQ006q6J9MdhdjfM6DPpCbIsfaLezg5Fr9GyvtmRtEAItzwSV4DbpRlyG-ZMxgTVn4_5O-hg8DHpZSwYsRobA.webp"}, 
+    { "id" : 6, "name" : "곽서영", "interest" : "미술영재", "course" : "MS", "image" : "https://i.namu.wiki/i/9ZQ006q6J9MdhdjfM6DPpCbIsfaLezg5Fr9GyvtmRtEAItzwSV4DbpRlyG-ZMxgTVn4_5O-hg8DHpZSwYsRobA.webp"}, 
+    { "id" : 7, "name" : "주승민", "interest" : "미술영재", "course" : "MS", "image" : "https://i.namu.wiki/i/9ZQ006q6J9MdhdjfM6DPpCbIsfaLezg5Fr9GyvtmRtEAItzwSV4DbpRlyG-ZMxgTVn4_5O-hg8DHpZSwYsRobA.webp"}
+  ]
